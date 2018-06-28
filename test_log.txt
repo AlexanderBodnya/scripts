@@ -1,0 +1,1264 @@
+I0621 16:55:29.371728  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.373636  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.414999  3140 FaceTracker.cpp:276] Frame 865 new detection Track 5: x=1824 y=588 w=93  h=141 score=0.987
+I0621 16:55:29.415092  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.456569  3140 FaceTracker.cpp:276] Frame 866 new detection Track 5: x=1803 y=584 w=142 h=143 score=0.982
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:29.456759  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.493121  3140 FaceTracker.cpp:276] Frame 867 new detection Track 5: x=1807 y=582 w=138 h=138 score=0.995
+I0621 16:55:29.493223  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:29.497239  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.499184  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.536586  3140 FaceTracker.cpp:276] Frame 868 new detection Track 5: x=1818 y=582 w=99  h=144 score=0.970
+I0621 16:55:29.536710  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.578619  3140 FaceTracker.cpp:276] Frame 869 new detection Track 5: x=1797 y=582 w=153 h=153 score=0.973
+I0621 16:55:29.578716  3140 Tracker.cpp:242] FPS of Tracker 32
+I0621 16:55:29.578732  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.618322  3140 FaceTracker.cpp:276] Frame 870 new detection Track 5: x=1797 y=576 w=160 h=159 score=0.999
+I0621 16:55:29.618451  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165529.3090'!
+I0621 16:55:29.624822  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.627506  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.670035  3140 FaceTracker.cpp:276] Frame 871 new detection Track 5: x=1818 y=579 w=99  h=147 score=0.982
+I0621 16:55:29.670166  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.671262  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.671303  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.683328  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.683771  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.683809  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.695955  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:29.699689  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.701727  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.739887  3140 FaceTracker.cpp:276] Frame 874 new detection Track 5: x=1815 y=582 w=102 h=144 score=0.968
+I0621 16:55:29.739979  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.740484  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.740523  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.752656  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.753109  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.753145  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.765291  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:29.769269  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.771037  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.805523  3140 FaceTracker.cpp:276] Frame 877 new detection Track 5: x=1815 y=576 w=102 h=150 score=0.976
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:29.805692  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.806601  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.806640  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.818783  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.819217  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:29.819254  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:29.841619  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:29.845556  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.847399  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165529.3090'!
+I0621 16:55:29.883044  3140 FaceTracker.cpp:276] Frame 880 new detection Track 5: x=1815 y=576 w=102 h=153 score=0.978
+I0621 16:55:29.883162  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.921792  3140 FaceTracker.cpp:276] Frame 881 new detection Track 5: x=1791 y=576 w=159 h=160 score=0.948
+I0621 16:55:29.921921  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:29.958307  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:29.959884  3140 FaceTracker.cpp:276] Frame 882 new detection Track 5: x=1786 y=571 w=166 h=166 score=0.928
+I0621 16:55:29.959971  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:29.964826  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:29.966841  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.002321  3140 FaceTracker.cpp:276] Frame 883 new detection Track 5: x=1815 y=576 w=102 h=144 score=0.981
+I0621 16:55:30.002426  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.040606  3140 FaceTracker.cpp:276] Frame 884 new detection Track 5: x=1795 y=578 w=160 h=159 score=0.966
+I0621 16:55:30.040709  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.089284  3140 FaceTracker.cpp:276] Frame 885 new detection Track 5: x=1788 y=567 w=169 h=169 score=0.964
+I0621 16:55:30.089385  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:30.093571  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.095685  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.132233  3140 FaceTracker.cpp:276] Frame 886 new detection Track 5: x=1812 y=582 w=105 h=138 score=0.970
+I0621 16:55:30.132323  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.171665  3140 FaceTracker.cpp:276] Frame 887 new detection Track 5: x=1790 y=585 w=142 h=142 score=0.969
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:30.171831  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.172520  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:30.172600  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:30.187067  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:30.192879  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.193279  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.229365  3140 FaceTracker.cpp:276] Frame 889 new detection Track 5: x=1818 y=579 w=99  h=144 score=0.971
+I0621 16:55:30.229487  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.267383  3140 FaceTracker.cpp:276] Frame 890 new detection Track 5: x=1795 y=576 w=157 h=157 score=0.980
+I0621 16:55:30.267488  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.313952  3140 FaceTracker.cpp:276] Frame 891 new detection Track 5: x=1791 y=573 w=159 h=160 score=0.966
+I0621 16:55:30.314049  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165530.3090'!
+I0621 16:55:30.319996  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.320477  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.358721  3140 FaceTracker.cpp:276] Frame 892 new detection Track 5: x=1815 y=576 w=102 h=153 score=0.979
+I0621 16:55:30.358835  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.394498  3140 FaceTracker.cpp:276] Frame 893 new detection Track 5: x=1798 y=576 w=159 h=159 score=0.997
+I0621 16:55:30.394598  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.432111  3140 FaceTracker.cpp:276] Frame 894 new detection Track 5: x=1796 y=573 w=158 h=158 score=0.973
+I0621 16:55:30.432207  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:30.438750  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.503057  3140 FaceTracker.cpp:276] Frame 895 new detection Track 5: x=1815 y=573 w=102 h=156 score=0.970
+I0621 16:55:30.509006  3140 FaceTracker.cpp:276] Frame 895 new detection Track 6: x=1149 y=693 w=57  h=87  score=0.966
+I0621 16:55:30.509079  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.551937  3140 FaceTracker.cpp:276] Frame 896 new detection Track 5: x=1798 y=576 w=160 h=160 score=1.005
+I0621 16:55:30.551970  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:30.568819  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.606612  3140 FaceTracker.cpp:276] Frame 897 new detection Track 5: x=1790 y=567 w=173 h=173 score=0.983
+I0621 16:55:30.606645  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:30.618623  3140 Tracker.cpp:242] FPS of Tracker 28
+I0621 16:55:30.618640  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:30.626842  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.627218  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.664212  3140 FaceTracker.cpp:276] Frame 898 new detection Track 5: x=1815 y=573 w=102 h=153 score=0.977
+I0621 16:55:30.664280  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:30.676184  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.677212  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:30.677256  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:30.689216  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:30.701189  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.702636  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:30.702683  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:30.714596  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:30.726604  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165530.3090'!
+I0621 16:55:30.735239  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.798318  3140 FaceTracker.cpp:276] Frame 901 new detection Track 6: x=1140 y=669 w=63  h=84  score=0.941
+I0621 16:55:30.804659  3140 FaceTracker.cpp:276] Frame 901 new detection Track 5: x=1818 y=576 w=99  h=153 score=0.959
+I0621 16:55:30.804738  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.847575  3140 FaceTracker.cpp:276] Frame 902 new detection Track 6: x=1128 y=662 w=86  h=85  score=0.946
+I0621 16:55:30.847607  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:30.865713  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:30.901142  3140 FaceTracker.cpp:276] Frame 903 new detection Track 6: x=1122 y=654 w=89  h=89  score=0.925
+I0621 16:55:30.901178  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:30.913985  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:30.920694  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.921056  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:30.958282  3140 FaceTracker.cpp:276] Frame 904 new detection Track 5: x=1821 y=582 w=96  h=150 score=0.967
+I0621 16:55:30.958319  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:30.960209  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:30.971247  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:31.035238  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.039434  3140 FaceTracker.cpp:276] Frame 905 new detection Track 5: x=1796 y=572 w=164 h=164 score=0.990
+I0621 16:55:31.045789  3140 FaceTracker.cpp:276] Frame 905 new detection Track 6: x=1115 y=640 w=85  h=84  score=0.668
+Not enough livenesses checks
+I0621 16:55:31.045871  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.083833  3140 FaceTracker.cpp:276] Frame 907 new detection Track 6: x=1102 y=622 w=91  h=91  score=0.788
+I0621 16:55:31.083866  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.096079  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:31.100548  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.102998  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.103430  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.103514  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.115959  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:31.128413  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:31.166612  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.170898  3140 FaceTracker.cpp:276] Frame 909 new detection Track 6: x=1091 y=610 w=89  h=89  score=0.951
+I0621 16:55:31.170922  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165531.3090'!
+I0621 16:55:31.188243  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.224107  3140 FaceTracker.cpp:276] Frame 911 new detection Track 6: x=1070 y=599 w=98  h=98  score=0.784
+I0621 16:55:31.224145  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.236517  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:31.244530  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+W0621 16:55:31.273926  3141 BufferFS.h:42] skip frame
+W0621 16:55:31.309561  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.316654  3140 FaceTracker.cpp:276] Frame 912 new detection Track 6: x=1074 y=597 w=69  h=93  score=0.742
+I0621 16:55:31.325412  3140 FaceTracker.cpp:276] Frame 912 new detection Track 5: x=1830 y=582 w=87  h=141 score=0.979
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:31.325616  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:31.373277  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.396244  3140 FaceTracker.cpp:276] Frame 915 new detection Track 5: x=1816 y=579 w=141 h=140 score=0.981
+I0621 16:55:31.402789  3140 FaceTracker.cpp:276] Frame 915 new detection Track 6: x=1028 y=579 w=97  h=97  score=0.506
+I0621 16:55:31.402878  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:31.436264  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.441771  3140 FaceTracker.cpp:276] Frame 917 new detection Track 6: x=1002 y=561 w=103 h=103 score=0.617
+I0621 16:55:31.441794  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+        LIVENESS CHECK:
+0.988515 0.97989 0.993361 0.991637 0.995679 0.981115 0.98937 0.98473 0.555416 0.909398
+        Liveness check successfully passed: 0.936911 > 0.5
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165531.3090'!
+W0621 16:55:31.457276  3140 Player.cpp:711] The result for Track 6 was sended. Frame: 909
+I0621 16:55:31.457383  3140 Tracker.cpp:527] The best detection for Track 6 was found on frame 909 with Score=0.951048
+I0621 16:55:31.457451  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:31.463066  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.469992  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+W0621 16:55:31.501801  3127 Player.cpp:722] Received response status code:201 for Track 6
+I0621 16:55:31.502014  3127 Player.cpp:759] ---m_sendJsonCounter 0
+W0621 16:55:31.506110  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.529420  3140 FaceTracker.cpp:276] Frame 919 new detection Track 6: x=984 y=543 w=81  h=105 score=0.460
+I0621 16:55:31.529460  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+W0621 16:55:31.541342  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.546278  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.547480  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:31.547526  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.559486  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165531.3090'!
+I0621 16:55:31.573494  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.574841  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:31.574889  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.586882  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:31.601291  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:31.605706  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.609972  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.610360  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.610406  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.622889  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:31.637308  3140 Tracker.cpp:242] FPS of Tracker 19
+I0621 16:55:31.637375  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.680160  3140 FaceTracker.cpp:276] Frame 925 new detection Track 6: x=916 y=458 w=134 h=133 score=0.975
+I0621 16:55:31.680191  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.697227  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:31.735674  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.739359  3140 FaceTracker.cpp:276] Frame 926 new detection Track 6: x=917 y=450 w=124 h=124 score=0.928
+I0621 16:55:31.739382  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.756530  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:31.761270  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.766311  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.801775  3140 FaceTracker.cpp:276] Frame 928 new detection Track 6: x=921 y=432 w=90  h=117 score=0.968
+I0621 16:55:31.801807  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+W0621 16:55:31.808753  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.813861  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.815356  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:31.815402  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.827560  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:31.841825  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.879106  3140 FaceTracker.cpp:276] Frame 931 new detection Track 6: x=879 y=393 w=145 h=146 score=0.978
+I0621 16:55:31.879139  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.891108  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165531.3090'!
+I0621 16:55:31.896030  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.901012  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:31.936342  3140 FaceTracker.cpp:276] Frame 932 new detection Track 6: x=900 y=384 w=96  h=129 score=0.699
+I0621 16:55:31.936377  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+W0621 16:55:31.944281  3141 BufferFS.h:42] skip frame
+I0621 16:55:31.948518  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.951663  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:31.951710  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.963696  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:31.975421  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:31.978328  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:31.978394  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:31.981614  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:31.990639  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.002485  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.007874  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.012894  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.052911  3140 FaceTracker.cpp:276] Frame 936 new detection Track 6: x=885 y=309 w=93  h=132 score=0.649
+I0621 16:55:32.052942  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.070551  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.071894  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.071943  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.084022  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.095775  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.133074  3140 FaceTracker.cpp:276] Frame 938 new detection Track 6: x=836 y=261 w=159 h=159 score=0.645
+I0621 16:55:32.133107  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+W0621 16:55:32.138731  3141 BufferFS.h:42] skip frame
+I0621 16:55:32.145108  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.149180  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.155495  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.197909  3140 FaceTracker.cpp:276] Frame 940 new detection Track 6: x=804 y=219 w=144 h=171 score=0.233
+I0621 16:55:32.197959  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165532.3090'!
+W0621 16:55:32.210347  3141 BufferFS.h:42] skip frame
+I0621 16:55:32.214964  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.216327  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.216372  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.228446  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.242378  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.243340  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.243386  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.255614  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.269994  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.274646  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.280881  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.281433  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.281491  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.293546  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.308070  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.308889  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.308935  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.320961  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.335289  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.380667  3140 FaceTracker.cpp:276] Frame 946 new detection Track 6: x=694 y=105 w=204 h=204 score=0.876
+I0621 16:55:32.380700  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.397965  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.402007  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.402360  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.445538  3140 FaceTracker.cpp:276] Frame 947 new detection Track 6: x=681 y=87  w=165 h=213 score=0.649
+I0621 16:55:32.445611  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+W0621 16:55:32.446719  3141 BufferFS.h:42] skip frame
+I0621 16:55:32.457744  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.459746  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.459807  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.471976  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165532.3090'!
+I0621 16:55:32.486477  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.488129  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.488175  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.500600  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.515192  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.518939  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.519310  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.524025  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.524097  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.536607  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.551046  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.552019  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.552064  3140 FaceTracker.cpp:101] Track 5 wasn't updated
+I0621 16:55:32.564339  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+        LIVENESS CHECK:
+0.0753922 0.289709 0.063931 0.0221961 0.0808484 0.0467012 0.0268309 0.176396 0.135833 0.0503494
+        Liveness check not passed: 0.0968187 < 0.5
+I0621 16:55:32.579814  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.580505  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.580543  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.594684  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.599565  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.606510  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.610988  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.611052  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.625414  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.625967  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.626006  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.640779  3140 Tracker.cpp:242] FPS of Tracker 25
+I0621 16:55:32.640832  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.641422  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:32.641476  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.656062  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.660331  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.660646  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165532.3090'!
+I0621 16:55:32.664793  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.664880  3140 FaceTracker.cpp:101] Track 6 wasn't updated
+I0621 16:55:32.679150  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.679205  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.679241  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.683531  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.683863  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.687923  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.688019  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.688076  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.688119  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.692512  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.692857  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.698734  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.698858  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.698918  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.719099  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.723479  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.723788  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.726853  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.726946  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.800431  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.800554  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.804916  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.807685  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.807778  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.848264  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.878669  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.886086  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.889642  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:32.920122  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:32.950536  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165532.3090'!
+I0621 16:55:32.991111  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:32.998165  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.000327  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.037863  3146 FFMPEGVideoCapture.cpp:707] Video fps: 32
+I0621 16:55:33.060995  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.061133  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.091485  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.098606  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.101594  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.111850  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.162475  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.182883  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.189872  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.190323  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.230907  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.251266  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.301774  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.308944  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.319290  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.359678  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.380067  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.387090  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.387516  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.428057  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.453604  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.484010  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.491925  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.522370  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.552796  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.583254  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.591300  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.631899  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165533.3090'!
+I0621 16:55:33.642148  3140 Tracker.cpp:242] FPS of Tracker 39
+I0621 16:55:33.652350  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.692843  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.701341  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.721704  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.742041  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.782456  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.788223  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.818578  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.848987  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.899466  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:33.909042  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:33.909178  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.949563  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:33.990097  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.047996  3140 FaceTracker.cpp:276] Frame 1005 new detection Track 7: x=1824 y=579 w=93  h=153 score=0.945
+I0621 16:55:34.048090  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.048573  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.048610  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.060539  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.060981  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.061022  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.066421  3146 FFMPEGVideoCapture.cpp:707] Video fps: 32
+I0621 16:55:34.072906  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.078225  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.123890  3140 FaceTracker.cpp:276] Frame 1008 new detection Track 7: x=1824 y=579 w=93  h=156 score=0.963
+I0621 16:55:34.123991  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.127367  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.127411  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.150049  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.150550  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.150624  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165534.3090'!
+I0621 16:55:34.180268  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.184653  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.185715  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.185771  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.218547  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.218868  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.218907  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.241595  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.241966  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.242003  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.304663  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.314347  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.320245  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.320461  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.343596  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.344013  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.344071  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.358686  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.359426  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.359468  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.381963  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.386584  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.389654  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.389715  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.422530  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.422857  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.422904  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.445772  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.446281  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.446353  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.489418  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.495625  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165534.3090'!
+I0621 16:55:34.501384  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.501516  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.517469  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.517805  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.517853  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.552228  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.552534  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.552573  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.574864  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.579305  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.583312  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.583381  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.616052  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.616786  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.616855  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.649435  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:34.649478  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.649787  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.649827  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.682551  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.686945  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.692037  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.692112  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.714848  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.715163  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.715200  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.747798  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.748116  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.748155  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.780710  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.785078  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.790554  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165534.3090'!
+I0621 16:55:34.790689  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.823467  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.826720  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.826766  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.851001  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.851312  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.851354  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.885246  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.889891  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.894748  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.894829  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.918781  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.919118  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.919159  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.953124  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:34.953454  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:34.953497  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:34.977325  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:34.981989  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.988435  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:34.988584  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.022663  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.023187  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.023260  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.056896  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.057296  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.057353  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.070106  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:35.086136  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.090487  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.094506  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.094609  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165535.3090'!
+I0621 16:55:35.117247  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.117549  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.117586  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.160009  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.160497  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.160568  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.184506  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.189891  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.194504  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.194780  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.194834  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.207881  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.208163  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.208202  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.250543  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.251091  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.251132  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.283641  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.287441  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.290827  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.291075  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.291126  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.314085  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.314368  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:35.314410  3140 FaceTracker.cpp:101] Track 7 wasn't updated
+I0621 16:55:35.347468  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.377954  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.384690  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.389756  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.420194  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.460639  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.491112  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165535.3090'!
+I0621 16:55:35.501269  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.508116  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.518488  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.554065  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.584480  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.591562  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.597069  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.617461  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.647872  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.658099  3140 Tracker.cpp:242] FPS of Tracker 31
+I0621 16:55:35.688458  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.695757  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.701674  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.722520  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.752957  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.783397  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.790184  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.795058  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.825520  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.855918  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.896492  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.910610  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.916389  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.926638  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.977203  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:35.977294  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:35.983036  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:35.984436  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.014854  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.055385  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.085660  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:36.095881  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165536.3090'!
+I0621 16:55:36.105098  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.108595  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.118860  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.159349  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.189734  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.199833  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.202251  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.232653  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.258235  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.298789  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.306372  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.308559  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.328908  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.359385  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.389765  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.400861  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.404728  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.435597  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.445888  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.497040  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.507155  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.511415  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.521697  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.562239  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.582504  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.590356  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.592710  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.633224  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.653527  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.663715  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:36.694010  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.703755  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165536.3090'!
+I0621 16:55:36.706341  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.716614  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.757165  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.787533  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.794301  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.797561  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.827987  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.858441  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.898994  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:36.905673  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.908123  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:36.918422  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.964074  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:36.994508  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.001579  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.004065  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.034515  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.054875  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.085325  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.092363  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.093647  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.094092  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.103682  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:37.114449  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.154944  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.185406  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.191519  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.192559  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.194183  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.224577  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.255002  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.295548  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165537.3090'!
+I0621 16:55:37.301919  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.302908  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.304455  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.324764  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.346098  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.386693  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.392807  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.395750  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.396193  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.426616  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.457044  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.497581  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.503718  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.506034  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.516396  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.556896  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.587326  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.593498  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.644131  3140 FaceTracker.cpp:276] Frame 1113 new detection Track 8: x=1071 y=750 w=57  h=75  score=0.941
+I0621 16:55:37.644289  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.648205  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:37.648249  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.661247  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.662269  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:37.662307  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.675148  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:37.685276  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.688360  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.689324  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.689378  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.712656  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.714653  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165537.3090'!
+I0621 16:55:37.714735  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.743291  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.744338  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:37.744381  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.777496  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.780750  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.781836  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.781884  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.815268  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.849687  3140 FaceTracker.cpp:276] Frame 1120 new detection Track 8: x=1021 y=737 w=88  h=88  score=0.961
+I0621 16:55:37.849787  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.886606  3140 FaceTracker.cpp:276] Frame 1121 new detection Track 8: x=1016 y=745 w=71  h=71  score=0.891
+I0621 16:55:37.886703  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:37.889883  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.890702  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:37.890746  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:37.913806  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.957633  3140 FaceTracker.cpp:276] Frame 1123 new detection Track 8: x=1005 y=736 w=75  h=76  score=0.966
+Not enough livenesses checks
+I0621 16:55:37.957747  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:37.998608  3140 FaceTracker.cpp:276] Frame 1124 new detection Track 8: x=1007 y=743 w=66  h=66  score=0.921
+I0621 16:55:37.998703  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.002056  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.002701  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.002969  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.003017  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.026279  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.065098  3140 FaceTracker.cpp:276] Frame 1126 new detection Track 8: x=992 y=733 w=76  h=77  score=0.951
+I0621 16:55:38.065197  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.099687  3140 FaceTracker.cpp:276] Frame 1127 new detection Track 8: x=996 y=735 w=67  h=67  score=0.925
+I0621 16:55:38.099791  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.102883  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.103585  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165538.3090'!
+I0621 16:55:38.103631  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.116727  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.133982  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:38.153401  3140 FaceTracker.cpp:276] Frame 1129 new detection Track 8: x=983 y=728 w=83  h=83  score=0.976
+I0621 16:55:38.153488  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.154718  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:38.154757  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.177793  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.183629  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.224679  3140 FaceTracker.cpp:276] Frame 1131 new detection Track 8: x=993 y=732 w=57  h=72  score=0.984
+I0621 16:55:38.224781  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.263166  3140 FaceTracker.cpp:276] Frame 1132 new detection Track 8: x=983 y=724 w=88  h=87  score=0.998
+I0621 16:55:38.263269  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.298920  3140 FaceTracker.cpp:276] Frame 1133 new detection Track 8: x=986 y=725 w=71  h=71  score=0.987
+I0621 16:55:38.299026  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.302201  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.304493  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.304546  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.317569  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.364565  3140 FaceTracker.cpp:276] Frame 1135 new detection Track 8: x=980 y=708 w=93  h=94  score=0.972
+        LIVENESS CHECK:
+0.98395 0.314098 0.68947 0.578527 0.558854 0.849253 0.541933 0.657208 0.672289 0.434766
+        Liveness check successfully passed: 0.628035 > 0.5
+W0621 16:55:38.368598  3140 Player.cpp:711] The result for Track 8 was sended. Frame: 1132
+I0621 16:55:38.368692  3140 Tracker.cpp:527] The best detection for Track 8 was found on frame 1132 with Score=0.998014
+I0621 16:55:38.368755  3140 Tracker.cpp:392] Part detection.
+W0621 16:55:38.408258  3120 Player.cpp:722] Received response status code:201 for Track 8
+I0621 16:55:38.408699  3113 Player.cpp:759] ---m_sendJsonCounter 0
+I0621 16:55:38.426250  3140 FaceTracker.cpp:276] Frame 1136 new detection Track 8: x=992 y=717 w=77  h=77  score=0.905
+I0621 16:55:38.426349  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.429635  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.469638  3140 FaceTracker.cpp:276] Frame 1137 new detection Track 8: x=990 y=699 w=63  h=84  score=0.946
+I0621 16:55:38.469745  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.505491  3140 FaceTracker.cpp:276] Frame 1138 new detection Track 8: x=983 y=690 w=90  h=91  score=0.942
+I0621 16:55:38.505604  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165538.3090'!
+I0621 16:55:38.506412  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:38.506475  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.519024  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.522163  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.523707  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.523753  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.536025  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.536677  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:38.536715  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.559617  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.596101  3140 FaceTracker.cpp:276] Frame 1142 new detection Track 8: x=1002 y=675 w=61  h=60  score=0.940
+I0621 16:55:38.596200  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.599413  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.636726  3140 FaceTracker.cpp:276] Frame 1143 new detection Track 8: x=981 y=648 w=75  h=96  score=0.952
+I0621 16:55:38.636837  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.672909  3140 FaceTracker.cpp:276] Frame 1144 new detection Track 8: x=986 y=647 w=81  h=81  score=0.972
+I0621 16:55:38.673054  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.708848  3140 FaceTracker.cpp:276] Frame 1145 new detection Track 8: x=975 y=635 w=96  h=96  score=0.959
+I0621 16:55:38.708981  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:38.708998  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.712134  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.752739  3140 FaceTracker.cpp:276] Frame 1146 new detection Track 8: x=987 y=636 w=63  h=84  score=0.975
+I0621 16:55:38.752841  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.790882  3140 FaceTracker.cpp:276] Frame 1147 new detection Track 8: x=963 y=626 w=100 h=100 score=0.979
+I0621 16:55:38.790968  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.827239  3140 FaceTracker.cpp:276] Frame 1148 new detection Track 8: x=956 y=625 w=95  h=95  score=0.964
+I0621 16:55:38.827337  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.830574  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.869846  3140 FaceTracker.cpp:276] Frame 1149 new detection Track 8: x=969 y=630 w=63  h=78  score=0.966
+I0621 16:55:38.869956  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:38.910135  3140 FaceTracker.cpp:276] Frame 1150 new detection Track 8: x=935 y=608 w=112 h=111 score=0.983
+I0621 16:55:38.910219  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165538.3090'!
+I0621 16:55:38.948263  3140 FaceTracker.cpp:276] Frame 1151 new detection Track 8: x=932 y=605 w=102 h=103 score=0.930
+I0621 16:55:38.948380  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:38.951457  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.954468  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:38.954522  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:38.966948  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.002153  3140 FaceTracker.cpp:276] Frame 1153 new detection Track 8: x=916 y=584 w=101 h=101 score=0.656
+I0621 16:55:39.002245  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.003404  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.003455  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.016788  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.019963  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.057648  3140 FaceTracker.cpp:276] Frame 1155 new detection Track 8: x=912 y=564 w=78  h=108 score=0.570
+I0621 16:55:39.057749  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.061317  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.061359  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.073380  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.074666  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.074709  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.086504  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.089653  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.089864  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.132668  3140 FaceTracker.cpp:276] Frame 1158 new detection Track 8: x=894 y=525 w=75  h=102 score=0.612
+I0621 16:55:39.132751  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.152562  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:39.169003  3140 FaceTracker.cpp:276] Frame 1159 new detection Track 8: x=870 y=508 w=120 h=120 score=0.693
+I0621 16:55:39.169116  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.170264  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.170305  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.183079  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.186170  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.186390  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165539.3090'!
+I0621 16:55:39.224938  3140 FaceTracker.cpp:276] Frame 1161 new detection Track 8: x=885 y=492 w=81  h=105 score=0.964
+I0621 16:55:39.225039  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.226251  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.226292  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.250849  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.251945  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.251986  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.285929  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.289168  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.289381  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.329423  3140 FaceTracker.cpp:276] Frame 1164 new detection Track 8: x=870 y=462 w=90  h=114 score=0.945
+I0621 16:55:39.329516  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.330579  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.330619  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.365937  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.367187  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.367235  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.391754  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.394902  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.395104  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.433981  3140 FaceTracker.cpp:276] Frame 1167 new detection Track 8: x=855 y=423 w=111 h=141 score=0.954
+I0621 16:55:39.434087  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.471204  3140 FaceTracker.cpp:276] Frame 1168 new detection Track 8: x=834 y=416 w=130 h=131 score=0.893
+I0621 16:55:39.471303  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.508016  3140 FaceTracker.cpp:276] Frame 1169 new detection Track 8: x=845 y=401 w=126 h=126 score=0.792
+I0621 16:55:39.508118  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.511303  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.511520  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.515811  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.515908  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.528791  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.565871  3140 FaceTracker.cpp:276] Frame 1171 new detection Track 8: x=806 y=353 w=151 h=152 score=0.843
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165539.3090'!
+I0621 16:55:39.566005  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.566818  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.566862  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.579385  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.582582  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.582798  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.623029  3140 FaceTracker.cpp:276] Frame 1173 new detection Track 8: x=834 y=318 w=105 h=138 score=0.277
+I0621 16:55:39.623127  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.624146  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.624186  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.657505  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.658260  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.658299  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.681396  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.684635  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.684841  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.724942  3140 FaceTracker.cpp:276] Frame 1176 new detection Track 8: x=792 y=261 w=120 h=153 score=0.593
+I0621 16:55:39.725029  3140 Tracker.cpp:242] FPS of Tracker 31
+I0621 16:55:39.725044  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.728826  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.728868  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.752934  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.754024  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.754065  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:39.788110  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.791188  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.791399  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.830380  3140 FaceTracker.cpp:276] Frame 1179 new detection Track 8: x=747 y=219 w=132 h=147 score=0.441
+I0621 16:55:39.830472  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.866567  3140 FaceTracker.cpp:276] Frame 1180 new detection Track 8: x=702 y=174 w=193 h=193 score=0.823
+I0621 16:55:39.866660  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.908463  3140 FaceTracker.cpp:276] Frame 1181 new detection Track 8: x=692 y=180 w=159 h=159 score=0.536
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165539.3090'!
+I0621 16:55:39.908596  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:39.912051  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.912268  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:39.954457  3140 FaceTracker.cpp:276] Frame 1182 new detection Track 8: x=693 y=162 w=138 h=168 score=0.564
+I0621 16:55:39.954548  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.991327  3140 FaceTracker.cpp:276] Frame 1183 new detection Track 8: x=659 y=142 w=171 h=171 score=0.730
+I0621 16:55:39.991427  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:39.992720  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:39.992760  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.006523  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.009740  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.009959  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.050462  3140 FaceTracker.cpp:276] Frame 1185 new detection Track 8: x=621 y=93  w=144 h=171 score=0.451
+I0621 16:55:40.050607  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.051826  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:40.051867  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.065848  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.066503  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:40.066545  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.091146  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.097156  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.097594  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.108214  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.108485  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.136090  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.137071  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:40.137145  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.174590  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.175657  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:40.175734  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.178184  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:40.199386  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165540.3090'!
+I0621 16:55:40.203162  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.203434  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.208966  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.209100  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.223178  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.223665  3140 MTCNNDetectorImpl.cpp:484] [MTCNNDetector] No faces found.
+I0621 16:55:40.223703  3140 FaceTracker.cpp:101] Track 8 wasn't updated
+I0621 16:55:40.248289  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.298843  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.304931  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.305344  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.313966  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.334481  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.364920  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.395377  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.401396  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.401818  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.413353  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.433717  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.459327  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.499861  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.509402  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.509865  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.518879  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.529176  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.569715  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.600134  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.608984  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.615821  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.636200  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.666613  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.697062  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165540.3090'!
+I0621 16:55:40.706234  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.710377  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.720793  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.731016  3140 Tracker.cpp:242] FPS of Tracker 31
+I0621 16:55:40.761373  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.791771  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.799270  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.802058  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.832526  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.852877  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.893388  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.901027  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:40.921420  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.961896  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:40.992350  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:40.999064  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.029474  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.069929  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.100358  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.107376  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.127683  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.163230  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.193578  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.203146  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.212301  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:41.233572  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.264034  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.304524  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.311223  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.331516  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.371995  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.392364  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165541.3090'!
+I0621 16:55:41.399085  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.429599  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.460032  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.490465  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.497227  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.527726  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.558179  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.588611  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.595300  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.625905  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.656327  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.696828  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.705495  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.725867  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.736085  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:41.766439  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.786780  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.793495  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.824092  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.859675  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.890128  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.896904  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:41.927384  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.957787  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:41.988214  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:41.994931  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.025475  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.055902  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.096422  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.107946  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.118222  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.158725  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165542.3090'!
+I0621 16:55:42.189172  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.195893  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.226519  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.241165  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:42.256961  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.297492  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.304193  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.334669  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.385309  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.395546  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.399227  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.419538  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.459996  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.490478  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.497050  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.517379  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.561641  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.592087  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.598436  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.628876  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.659343  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.689775  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.696501  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.726970  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.737174  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:42.757441  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.797968  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.806679  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:42.827158  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.867692  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.888031  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:42.894706  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165542.3090'!
+I0621 16:55:42.925182  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.955529  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:42.996094  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.002934  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.023329  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.063901  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.094326  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.101003  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.131477  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.151836  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.192387  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.199023  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.219477  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.255151  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.275538  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:43.295703  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.305933  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.326316  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.366827  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.397220  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.409945  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.430711  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.461115  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.501670  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.509495  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.529870  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.560258  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.590631  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.597434  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.627807  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.658197  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.698670  3140 Tracker.cpp:384] Full detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165543.3090'!
+I0621 16:55:43.705468  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.725878  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.746191  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:43.756352  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.786711  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.793401  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.823734  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.854197  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.894675  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:43.901298  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:43.921675  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.957283  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:43.997738  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.004854  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.025183  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.065699  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.096146  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.102843  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.133435  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.153806  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.194329  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.200981  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.221424  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.261978  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.292424  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.299123  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.309541  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:44.329562  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.359982  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.390411  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.397202  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.417564  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165544.3090'!
+I0621 16:55:44.458106  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.488474  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.495124  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.525575  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.556042  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.596567  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.604005  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.634498  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.660032  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.710588  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.720261  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.720441  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.750725  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:44.760848  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.791178  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.797883  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.828248  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.858619  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.899184  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:44.907001  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:44.927386  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.957769  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:44.998322  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.008046  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.028583  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.069012  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.089325  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.095998  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.126576  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.157032  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.197533  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.204282  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165545.3090'!
+I0621 16:55:45.234846  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.265360  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.295696  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.302531  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.310586  3146 FFMPEGVideoCapture.cpp:707] Video fps: 30
+I0621 16:55:45.333088  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.368697  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.389019  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.395715  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.436249  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.456570  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.497086  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.503859  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.534289  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.594934  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.595043  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.598664  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.619002  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.659497  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.700079  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.709628  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.730008  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.760416  3140 Tracker.cpp:242] FPS of Tracker 30
+I0621 16:55:45.760481  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.790822  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.797602  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.828068  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.868626  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.899080  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:45.908681  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:45.929206  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:45.959575  3140 Tracker.cpp:392] Part detection.
+Could not create log file: No such file or directory
+COULD NOT CREATE LOGFILE '20180621-165546.3090'!
+I0621 16:55:46.000131  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.009498  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.029835  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.065521  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.095950  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.102696  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.133157  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.153537  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.194025  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.200736  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.221112  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.261540  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.291880  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.298624  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.329015  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.343492  3146 FFMPEGVideoCapture.cpp:707] Video fps: 31
+I0621 16:55:46.369560  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.400023  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.409759  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.420033  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.460520  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.501055  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.507951  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.
+I0621 16:55:46.528288  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.568665  3140 Tracker.cpp:392] Part detection.
+I0621 16:55:46.589035  3140 Tracker.cpp:384] Full detection.
+I0621 16:55:46.595798  3140 MTCNNDetectorImpl.cpp:309] [MTCNNDetector] No faces found.

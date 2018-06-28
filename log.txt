@@ -1,0 +1,1545 @@
+I0621 18:38:31.608036 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.632838 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.668237 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.703171 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.738030 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.772946 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.798694 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.843626 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.872465 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.908352 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.934310 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.970249 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:31.996116 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.041126 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.076067 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.100983 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.137317 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.172262 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.207227 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.232023 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.266957 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.301848 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.337671 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.372508 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.398172 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.443111 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.468842 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.503643 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.528486 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.566243 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.621364 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.646199 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.671110 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.716028 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.740873 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.775704 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.800581 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.845573 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.870438 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.905395 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.940282 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:32.975132 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.000016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.034950 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.069854 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.104730 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.139642 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.174505 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.209471 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.244426 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.272176 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.307039 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.341965 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.378146 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.403007 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.438947 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.474815 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.509742 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.534570 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.570533 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.606245 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.642200 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.667040 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.701944 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.746937 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.771750 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.806530 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.831351 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.876368 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.901208 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.936991 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:33.974659 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.009539 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.044358 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.069181 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.105095 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.129983 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.175940 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.210835 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.235721 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.280634 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.305524 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.340351 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.366628 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.402510 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.437433 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.472386 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.547701 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.550770 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.563657 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.607395 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.641381 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.680200 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.705080 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.739951 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.774893 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.809659 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.834482 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.870198 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.905108 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.939999 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.974937 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:34.999236 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.053690 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.069416 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.104190 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.149164 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.174005 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.208864 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.233597 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.279583 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.304388 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.339180 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.376981 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.401763 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.447268 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.472532 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.508267 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.534080 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.569963 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.604858 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.639762 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.674574 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.709652 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.744575 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.769440 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.805202 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.831043 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.874819 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.909631 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.934496 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:35.969383 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.014461 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.039315 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.078100 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.103940 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.139915 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.165747 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.211779 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.247599 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.273409 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.308270 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.333287 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.378280 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.403074 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.439026 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.475440 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.510723 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.546042 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.571303 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.606632 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.641955 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.677914 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.712813 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.738198 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.775914 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.810744 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.845630 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.871232 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.906090 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.940966 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:36.975903 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.010789 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.045717 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.080651 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.105528 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.141693 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.166484 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.211876 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.247151 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.272023 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.316998 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.341850 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.376722 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.411578 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.446492 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.474177 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.510061 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.546007 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.571893 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.616894 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.642787 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.677686 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.763067 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.766131 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.769146 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.812353 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.836959 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.871819 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.906733 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.942672 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:37.977471 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.002272 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.037281 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.083287 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.108145 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.143033 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.170701 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.205828 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.240641 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.275524 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.311439 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.337211 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.382196 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.408087 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.444015 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.469875 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.503582 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.538270 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.584064 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.608999 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.643937 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.669697 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.705348 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.749717 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.774526 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.809367 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.845271 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.883024 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.907837 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.942919 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:38.967656 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.012557 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.047477 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.072301 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.117337 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.142159 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.177057 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.201876 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.246788 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.281664 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.306501 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.342450 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.378458 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.413362 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.438208 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.473040 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.518071 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.542999 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.580633 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.605527 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.641376 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.677235 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.712119 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.748112 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.773970 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.819077 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.844012 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.878940 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.904803 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.949760 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:39.985280 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.010282 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.045171 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.080031 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.115947 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.141831 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.176779 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.211638 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.247524 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.286329 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.312175 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.348026 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.373891 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.418901 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.443737 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.478572 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.504356 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.549403 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.584326 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.609129 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.644026 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.678932 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.713853 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.739758 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.774714 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.819628 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.844527 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.890328 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.956524 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.960016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:40.964877 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.008105 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.042191 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.077045 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.111969 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.146838 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.181732 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.206534 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.252403 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.277199 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.312079 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.348016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.384049 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.419015 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.443881 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.478734 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.513669 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.548527 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.574523 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.610479 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.655460 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.683221 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.720088 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.745319 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.780300 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.815325 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.850221 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.885110 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.910931 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.945799 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:41.980630 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.015512 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.041364 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.077343 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.113252 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.148135 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.183017 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.238139 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.252852 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.277570 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.312844 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.348120 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.386298 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.412194 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.448139 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.483048 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.507870 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.552747 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.577520 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.612884 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.638911 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.684888 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.719779 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.758790 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.784674 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.810542 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.846593 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.883002 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.918435 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.953735 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:42.979169 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.014430 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.049629 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.088079 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.114392 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.150328 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.185231 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.210986 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.255992 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.282378 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.317637 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.353535 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.378348 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.423324 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.448210 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.484143 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.510020 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.555469 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.580296 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.615193 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.650072 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.684906 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.719763 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.744599 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.783123 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.808957 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.854852 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.880796 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.916676 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.952571 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:43.978222 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.024240 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.049100 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.094043 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.179471 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.183279 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.187016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.220111 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.255017 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.279810 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.324812 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.350335 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.386267 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.422227 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.457175 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.484948 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.519780 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.545392 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.581823 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.617206 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.652500 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.688757 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.744402 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.747699 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.780882 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.825460 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.851529 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.887925 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.912456 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.947795 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:44.984194 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.014204 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.038077 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.082124 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.117521 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.153671 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.181872 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.217304 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.253708 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.289175 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.324558 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.350047 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.385519 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.420984 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.456398 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.482673 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.517334 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.552736 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.588333 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.625027 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.650878 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.686452 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.713860 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.748517 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.793506 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.821697 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.857339 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.885886 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.922582 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.948420 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:45.984060 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.010527 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.056428 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.093403 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.120340 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.156018 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.181699 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.218654 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.254431 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.291026 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.318034 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.353852 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.390921 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.418016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.454944 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.480686 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.526615 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.552731 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.591470 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.627451 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.655138 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.687598 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.723537 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.759488 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.785585 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.818179 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.854264 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.890276 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.922125 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.948485 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:46.994835 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.022454 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.060853 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.088178 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.124411 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.157232 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.201987 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.226944 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.252889 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.292392 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.368132 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.372866 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.379240 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.424123 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.454032 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.490331 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.526973 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.553514 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.590015 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.617818 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.656234 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.693023 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.721030 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.747215 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.792666 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.829470 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.856176 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.893262 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.921205 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.959005 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:47.985467 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.013331 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.051149 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.097787 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.124866 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.161850 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.189571 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.226030 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.263016 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.293563 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.333813 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.360664 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.397172 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.425969 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.464566 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.492427 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.528101 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.557996 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.588115 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.615731 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.652993 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.716955 27605 FaceTracker.cpp:279] Frame 2058 new detection Track 0: x=1074 y=291 w=132 h=183 score=0.986
+I0621 18:38:48.717018 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.721545 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.725853 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.730826 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.745421 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.750036 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.784606 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.823318 27605 FaceTracker.cpp:279] Frame 2062 new detection Track 0: x=1062 y=237 w=141 h=186 score=0.980
+I0621 18:38:48.823390 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.828496 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.853451 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.858196 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.883222 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.888425 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:48.923481 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.959012 27605 FaceTracker.cpp:279] Frame 2066 new detection Track 0: x=1008 y=174 w=177 h=216 score=0.977
+I0621 18:38:48.959086 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:48.990345 27605 FaceTracker.cpp:279] Frame 2067 new detection Track 0: x=1014 y=162 w=168 h=213 score=0.961
+I0621 18:38:48.990432 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.020663 27605 FaceTracker.cpp:279] Frame 2068 new detection Track 0: x=1050 y=174 w=141 h=171 score=0.900
+Not enough livenesses checks
+I0621 18:38:49.020776 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.053493 27605 FaceTracker.cpp:279] Frame 2069 new detection Track 0: x=1032 y=147 w=159 h=204 score=0.945
+I0621 18:38:49.053561 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.058341 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.084484 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.090054 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.116380 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.147774 27605 FaceTracker.cpp:279] Frame 2072 new detection Track 0: x=1050 y=111 w=159 h=207 score=0.961
+I0621 18:38:49.147840 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.179019 27605 FaceTracker.cpp:279] Frame 2073 new detection Track 0: x=1053 y=96  w=165 h=219 score=0.972
+I0621 18:38:49.189203 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.219972 27605 FaceTracker.cpp:279] Frame 2074 new detection Track 0: x=1062 y=84  w=180 h=225 score=0.977
+I0621 18:38:49.220057 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.249967 27605 FaceTracker.cpp:279] Frame 2075 new detection Track 0: x=1071 y=78  w=168 h=204 score=0.961
+I0621 18:38:49.260134 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.265556 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.282078 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.313277 27605 FaceTracker.cpp:279] Frame 2077 new detection Track 0: x=1074 y=24  w=207 h=276 score=0.955
+I0621 18:38:49.313346 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.343690 27605 FaceTracker.cpp:279] Frame 2078 new detection Track 0: x=1098 y=48  w=165 h=198 score=0.965
+I0621 18:38:49.353842 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.388286 27605 FaceTracker.cpp:279] Frame 2079 new detection Track 0: x=1098 y=27  w=177 h=219 score=0.961
+        LIVENESS CHECK:
+0.484671 0.491774 0.486742 0.486402 0.584366 0.509313 0.518304 0.495073 0.440961 0.504988
+        Liveness check successfully passed: 0.500259 > 0.5
+W0621 18:38:49.391376 27605 Player.cpp:711] The result for Track 0 was sended. Frame: 2074
+I0621 18:38:49.391582 27605 Tracker.cpp:527] The best detection for Track 0 was found on frame 2074 with Score=0.977352
+I0621 18:38:49.391640 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.433020 27605 FaceTracker.cpp:279] Frame 2080 new detection Track 0: x=1110 y=21  w=177 h=219 score=0.978
+I0621 18:38:49.433102 27605 Tracker.cpp:384] Full detection.
+W0621 18:38:49.433204 27601 Player.cpp:722] Received response status code:201 for Track 0
+I0621 18:38:49.433945 27596 Player.cpp:759] ---m_sendJsonCounter 0
+I0621 18:38:49.465811 27605 FaceTracker.cpp:279] Frame 2081 new detection Track 0: x=1104 y=0   w=198 h=243 score=0.974
+I0621 18:38:49.465886 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.472754 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.488030 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.493314 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.518395 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.526762 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.556237 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.565102 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.594506 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.607055 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.622915 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.629027 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.654166 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.660208 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.715503 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.724174 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.731587 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.738131 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.753351 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.758764 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.783872 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.791894 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.821280 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.831297 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.860852 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.869588 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.889178 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.897754 27605 FaceTracker.cpp:101] Track 0 wasn't updated
+I0621 18:38:49.927589 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.958235 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:49.990350 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.016878 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.053474 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.092303 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.130416 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.161893 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.191884 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.220350 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.259430 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.298617 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.329349 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.358923 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.397497 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.426182 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.457825 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.486815 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.525135 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.563561 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.614208 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.619845 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.655509 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.691413 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.728055 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.758574 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.799738 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.827520 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.857028 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.884912 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.925722 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.964622 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:50.996297 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.028007 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.065966 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.095300 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.123538 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.151751 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.189280 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.226887 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.266893 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.295042 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.332975 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.361945 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.400753 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.419898 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.458823 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.490370 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.521936 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.559129 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.600106 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.628739 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.668323 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.697413 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.734570 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.755982 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.796038 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.825269 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.865229 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.885890 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.922585 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.959237 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:51.996388 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.024047 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.062512 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.090665 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.130570 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.158905 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.201850 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.253468 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.261771 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.289587 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.326454 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.365197 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.404507 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.423768 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.462051 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.493335 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.529389 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.556089 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.593305 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.629000 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.660080 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.687261 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.734764 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.754266 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.811928 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.828100 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.863356 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.891865 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.929349 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.955616 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:52.992034 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.018841 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.055284 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.091632 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.127907 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.157150 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.196738 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.224440 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.261587 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.289484 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.327206 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.357954 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.395198 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.428190 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.465550 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.490869 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.526854 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.564339 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.598206 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.626688 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.665664 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.693169 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.730566 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.757571 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.816824 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.820875 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.855219 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.890872 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.928997 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.955343 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:53.993006 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.022306 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.058653 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.085098 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.131634 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.168469 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.205996 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.234513 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.267168 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.299711 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.338416 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.367225 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.386481 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.422173 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.458045 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.494824 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.521011 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.562167 27605 FaceTracker.cpp:279] Frame 2234 new detection Track 1: x=1191 y=513 w=201 h=252 score=0.822
+I0621 18:38:54.562232 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.566431 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.612327 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.617471 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.623415 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.628340 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.664269 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.668582 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.685148 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.689887 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.726436 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.732228 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.758859 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.763720 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.803179 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.811327 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.832439 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.838574 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.869334 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.875360 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.892771 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.897265 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.934803 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.945605 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.954135 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.962476 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:54.991080 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:54.996229 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.024968 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.030992 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.069815 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.076689 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.097965 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.106328 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.136588 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.144770 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.155866 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.164716 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.194139 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.198724 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.225417 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.230381 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.256882 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.262742 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.289496 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.294875 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.322067 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.328047 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.366117 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.374734 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.406857 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.414338 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.432060 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.437153 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.464670 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.470306 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.487783 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.493365 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.520493 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.527674 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.554608 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.559499 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.596248 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.602016 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.631078 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.638408 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.666937 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.675196 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.692225 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.698386 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.725293 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.730861 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.758332 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.764112 27605 FaceTracker.cpp:101] Track 1 wasn't updated
+I0621 18:38:55.791488 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.817214 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.862990 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.888979 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.925567 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:55.963136 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.002817 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.031566 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.059967 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.097429 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.123989 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.159884 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.205128 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.233175 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.269109 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.295034 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.331012 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.358136 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.396997 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.432989 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.470454 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.496692 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.533013 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.561462 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.599378 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.635983 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.673714 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.699806 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.725039 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.761473 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.797578 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.823714 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.869779 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.890704 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.926980 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:56.965005 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.031210 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.035107 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.051115 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.107172 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.124271 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.170317 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.187145 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.232388 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.268787 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.297528 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.334564 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.374269 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.402020 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.434195 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.459146 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.494215 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.530951 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.557343 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.593786 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.630653 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.658290 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.693545 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.731109 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.758010 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.800009 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.825870 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.863028 27605 FaceTracker.cpp:279] Frame 2333 new detection Track 2: x=1128 y=330 w=108 h=141 score=0.965
+I0621 18:38:57.863090 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.868028 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:57.893092 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.898522 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:57.923523 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.953017 27605 FaceTracker.cpp:279] Frame 2336 new detection Track 2: x=1122 y=291 w=123 h=165 score=0.986
+I0621 18:38:57.963246 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:57.968207 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:57.992815 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.021256 27605 FaceTracker.cpp:279] Frame 2338 new detection Track 2: x=1113 y=264 w=129 h=174 score=0.987
+I0621 18:38:58.031486 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.059326 27605 FaceTracker.cpp:279] Frame 2339 new detection Track 2: x=1119 y=261 w=120 h=159 score=0.976
+I0621 18:38:58.069607 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.098434 27605 FaceTracker.cpp:279] Frame 2340 new detection Track 2: x=1104 y=237 w=132 h=180 score=0.976
+I0621 18:38:58.098537 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.128077 27605 FaceTracker.cpp:279] Frame 2341 new detection Track 2: x=1104 y=231 w=126 h=177 score=0.982
+I0621 18:38:58.128165 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.133414 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.158017 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.186909 27605 FaceTracker.cpp:279] Frame 2343 new detection Track 2: x=1098 y=201 w=138 h=186 score=0.985
+Not enough livenesses checks
+I0621 18:38:58.197108 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.233101 27605 FaceTracker.cpp:279] Frame 2344 new detection Track 2: x=1083 y=183 w=150 h=204 score=0.963
+I0621 18:38:58.233175 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.238785 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.253891 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.282196 27605 FaceTracker.cpp:279] Frame 2346 new detection Track 2: x=1086 y=168 w=144 h=195 score=0.986
+I0621 18:38:58.292424 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.323766 27605 FaceTracker.cpp:279] Frame 2347 new detection Track 2: x=1080 y=147 w=168 h=225 score=0.972
+I0621 18:38:58.323830 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.354084 27605 FaceTracker.cpp:279] Frame 2348 new detection Track 2: x=1071 y=138 w=171 h=222 score=0.964
+I0621 18:38:58.364259 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.392832 27605 FaceTracker.cpp:279] Frame 2349 new detection Track 2: x=1071 y=132 w=165 h=210 score=0.973
+I0621 18:38:58.392899 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.422978 27605 FaceTracker.cpp:279] Frame 2350 new detection Track 2: x=1080 y=126 w=156 h=198 score=0.963
+I0621 18:38:58.423048 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.453223 27605 FaceTracker.cpp:279] Frame 2351 new detection Track 2: x=1071 y=99  w=165 h=207 score=0.988
+I0621 18:38:58.453292 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.484046 27605 FaceTracker.cpp:279] Frame 2352 new detection Track 2: x=1086 y=90  w=171 h=216 score=0.972
+I0621 18:38:58.494256 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.523823 27605 FaceTracker.cpp:279] Frame 2353 new detection Track 2: x=1083 y=75  w=186 h=234 score=0.966
+I0621 18:38:58.523890 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.554793 27605 FaceTracker.cpp:279] Frame 2354 new detection Track 2: x=1095 y=48  w=195 h=255 score=0.981
+        LIVENESS CHECK:
+0.49873 0.497619 0.526492 0.512327 0.502653 0.585423 0.606843 0.493623 0.495801 0.467433
+        Liveness check successfully passed: 0.518694 > 0.5
+W0621 18:38:58.556875 27605 Player.cpp:711] The result for Track 2 was sended. Frame: 2351
+I0621 18:38:58.557011 27605 Tracker.cpp:527] The best detection for Track 2 was found on frame 2351 with Score=0.987750
+I0621 18:38:58.567478 27605 Tracker.cpp:384] Full detection.
+W0621 18:38:58.600436 27596 Player.cpp:722] Received response status code:201 for Track 2
+I0621 18:38:58.600634 27581 Player.cpp:759] ---m_sendJsonCounter 0
+I0621 18:38:58.608495 27605 FaceTracker.cpp:279] Frame 2355 new detection Track 2: x=1098 y=48  w=183 h=228 score=0.976
+I0621 18:38:58.608573 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.638447 27605 FaceTracker.cpp:279] Frame 2356 new detection Track 2: x=1098 y=33  w=195 h=237 score=0.984
+I0621 18:38:58.638583 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.644624 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.661222 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.692953 27605 FaceTracker.cpp:279] Frame 2358 new detection Track 2: x=1107 y=0   w=210 h=258 score=0.976
+I0621 18:38:58.693024 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.721648 27605 FaceTracker.cpp:279] Frame 2359 new detection Track 2: x=1107 y=0   w=198 h=246 score=0.979
+I0621 18:38:58.731850 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.737347 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.753334 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.793810 27605 FaceTracker.cpp:279] Frame 2361 new detection Track 2: x=1113 y=0   w=225 h=228 score=0.971
+I0621 18:38:58.804026 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.808989 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.824821 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.830121 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.865526 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.871431 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.898365 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.904500 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.931252 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.937744 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:58.965512 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:58.973490 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.013604 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.021592 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.041565 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.050247 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.070296 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.077620 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.095988 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.101539 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.106842 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.112257 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.127945 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.134873 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.160244 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.165042 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.230818 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.240633 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.250627 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.259418 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.267668 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.273557 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.299489 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.305254 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.331046 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.340854 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.372969 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.386590 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.394237 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.400732 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.436749 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.442797 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.468899 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.477936 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.504588 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.511869 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.528455 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.534289 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.560611 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.570631 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.627254 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.634173 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.640293 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.647765 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.663508 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.671417 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.700428 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.711115 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.728293 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.734179 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.771030 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.779145 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.796136 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.802528 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.829346 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.861402 27605 FaceTracker.cpp:279] Frame 2394 new detection Track 2: x=1137 y=0   w=180 h=219 score=0.988
+I0621 18:38:59.861492 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.867147 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.902184 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.907145 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.922379 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.928123 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.963259 27605 Tracker.cpp:384] Full detection.
+I0621 18:38:59.968196 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:38:59.993527 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.004604 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.033654 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.044096 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.073369 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.082994 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.101963 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.110091 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.139520 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.151262 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.201192 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.207547 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.212309 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.218955 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.224025 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.229301 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.264186 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.269662 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.294746 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.300233 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.335264 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.340505 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.366583 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.372697 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.388695 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.395812 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.431704 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.438304 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.463979 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.470437 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.496825 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.504343 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.540963 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.554998 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.563567 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.572080 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.588768 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.593783 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.628969 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.633908 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.669080 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.678035 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.706742 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.714916 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.733486 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.742028 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.771175 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.777520 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.793396 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.799643 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.835552 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.841856 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.869601 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.877180 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.905766 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.916613 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.935783 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.944201 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.972905 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:00.981796 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:00.997715 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.003865 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:01.039978 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.046190 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:01.062863 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.068657 27605 FaceTracker.cpp:101] Track 2 wasn't updated
+I0621 18:39:01.095573 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.142022 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.180121 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.207597 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.240514 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.271520 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.309027 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.338034 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.367748 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.405120 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.445096 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.463141 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.498432 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.523835 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.569641 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.605911 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.637475 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.664331 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.701105 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.737882 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.776388 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.795533 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.833355 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.859133 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.914917 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.941479 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:01.981508 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.008661 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.045203 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.081590 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.107985 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.134479 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.170927 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.198288 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.245062 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.272260 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.309099 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.335469 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.373939 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.400800 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.436523 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.461227 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.497196 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.533383 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.569813 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.606483 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.634204 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.673625 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.711690 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.739945 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.776983 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.798617 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.824529 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.858933 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.895983 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.930987 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.977578 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:02.996560 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.042733 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.068990 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.105187 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.134897 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.170794 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.206749 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.242523 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.269490 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.315636 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.342741 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.422788 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.428205 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.433385 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.457655 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.491976 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.536520 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.573267 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.611985 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.638955 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.674546 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.702194 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.738179 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.763886 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.800290 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.836266 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.860659 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.905143 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.940956 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:03.966692 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.002485 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.048346 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.068094 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.114884 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.140807 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.176456 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.202625 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.237139 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.261833 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.308046 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.344225 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.371155 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.407306 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.435019 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.471632 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.507462 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.543228 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.579468 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.604564 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.640283 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.680676 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.712241 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.730739 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.770267 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.807188 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.834161 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.880014 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.907754 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.943534 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:04.969295 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.004933 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.031811 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.077673 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.114492 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.133814 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.180348 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.207038 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.243619 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.267527 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.301268 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.335116 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.371726 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.406687 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.441037 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.468401 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.496047 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.530812 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.575582 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.611398 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.638993 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.675803 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.712738 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.739107 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.774883 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.810727 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.847528 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.871716 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.906329 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.940960 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:05.967747 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.004001 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.040329 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.076309 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.106024 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.142217 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.182330 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.201057 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.248668 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.277487 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.314945 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.332909 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.379508 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.406738 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.442960 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.469228 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.505527 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.541828 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.629562 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.633800 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.638216 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.663498 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.698524 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.733019 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.769531 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.797468 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.835566 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.865429 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.903501 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.941781 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:06.978778 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.005699 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.033288 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.073237 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.111466 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.141191 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.179327 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.206915 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.244395 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.275658 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.313800 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.340863 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.371026 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.409139 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.438146 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.477468 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.504874 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.543637 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.573313 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.600214 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.638133 27605 FaceTracker.cpp:279] Frame 2627 new detection Track 3: x=912 y=354 w=132 h=168 score=0.972
+I0621 18:39:07.638192 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.668252 27605 FaceTracker.cpp:279] Frame 2628 new detection Track 3: x=924 y=345 w=126 h=162 score=0.994
+I0621 18:39:07.668337 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.673498 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:07.699232 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.729341 27605 FaceTracker.cpp:279] Frame 2630 new detection Track 3: x=945 y=324 w=123 h=153 score=0.919
+I0621 18:39:07.739487 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.744796 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:07.770766 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.800997 27605 FaceTracker.cpp:279] Frame 2632 new detection Track 3: x=918 y=276 w=150 h=177 score=0.928
+I0621 18:39:07.801095 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.805727 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:07.841488 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.873026 27605 FaceTracker.cpp:279] Frame 2634 new detection Track 3: x=918 y=249 w=147 h=171 score=0.952
+I0621 18:39:07.873098 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.902695 27605 FaceTracker.cpp:279] Frame 2635 new detection Track 3: x=930 y=237 w=135 h=153 score=0.915
+I0621 18:39:07.902782 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.933169 27605 FaceTracker.cpp:279] Frame 2636 new detection Track 3: x=939 y=222 w=129 h=153 score=0.826
+I0621 18:39:07.933236 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:07.963832 27605 FaceTracker.cpp:279] Frame 2637 new detection Track 3: x=936 y=198 w=129 h=165 score=0.733
+Not enough livenesses checks
+I0621 18:39:07.974073 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.003861 27605 FaceTracker.cpp:279] Frame 2638 new detection Track 3: x=939 y=177 w=135 h=162 score=0.898
+I0621 18:39:08.003928 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.033711 27605 FaceTracker.cpp:279] Frame 2639 new detection Track 3: x=921 y=159 w=147 h=174 score=0.778
+I0621 18:39:08.043939 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.075748 27605 FaceTracker.cpp:279] Frame 2640 new detection Track 3: x=915 y=132 w=144 h=183 score=0.907
+I0621 18:39:08.075817 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.106902 27605 FaceTracker.cpp:279] Frame 2641 new detection Track 3: x=915 y=117 w=165 h=198 score=0.768
+I0621 18:39:08.106987 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.138224 27605 FaceTracker.cpp:279] Frame 2642 new detection Track 3: x=879 y=99  w=177 h=204 score=0.974
+I0621 18:39:08.138293 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.168160 27605 FaceTracker.cpp:279] Frame 2643 new detection Track 3: x=891 y=81  w=159 h=198 score=0.904
+I0621 18:39:08.178376 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.209604 27605 FaceTracker.cpp:279] Frame 2644 new detection Track 3: x=888 y=60  w=156 h=204 score=0.932
+I0621 18:39:08.209673 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.240962 27605 FaceTracker.cpp:279] Frame 2645 new detection Track 3: x=870 y=42  w=162 h=201 score=0.937
+I0621 18:39:08.241066 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.248049 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:08.274456 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.306565 27605 FaceTracker.cpp:279] Frame 2647 new detection Track 3: x=828 y=0   w=198 h=213 score=0.778
+I0621 18:39:08.306625 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.311575 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:08.336906 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.341835 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:08.377364 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.382557 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:08.409111 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.419981 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+I0621 18:39:08.450071 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.461823 27605 FaceTracker.cpp:101] Track 3 wasn't updated
+        LIVENESS CHECK:
+0.499638 0.485784 0.499746 0.480708 0.537223 0.538806 0.638579 0.562771 0.682522 0.636
+        Liveness check successfully passed: 0.556178 > 0.5
+W0621 18:39:08.475276 27605 Player.cpp:711] The result for Track 3 was sended. Frame: 2642
+I0621 18:39:08.475457 27605 Tracker.cpp:527] The best detection for Track 3 was found on frame 2642 with Score=0.973927
+I0621 18:39:08.485954 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.512506 27605 Tracker.cpp:384] Full detection.
+W0621 18:39:08.521594 27592 Player.cpp:722] Received response status code:201 for Track 3
+I0621 18:39:08.521752 27590 Player.cpp:759] ---m_sendJsonCounter 0
+I0621 18:39:08.539716 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.574939 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.602002 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.650300 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.680339 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.721959 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.739874 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.778059 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.807018 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.845850 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.885279 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.916723 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.946411 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:08.979311 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.008530 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.045466 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.072960 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.110119 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.137548 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.173681 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.211644 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.253967 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.281337 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.317807 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.344537 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.383116 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.409560 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.456806 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.480078 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.516391 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.543298 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.578490 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.616710 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.642648 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.682508 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.714810 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.739679 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.795331 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.799995 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.844391 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.880558 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.916962 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.943234 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:09.980497 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.007876 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.044345 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.070310 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.115344 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.141103 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.176903 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.203615 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.239432 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.275208 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.310978 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.346765 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.385545 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.411511 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.447337 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.473693 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.520128 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.546440 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.581933 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.612213 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.648355 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.677815 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.713639 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.749729 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.776680 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.813725 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.839545 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.875510 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.911471 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.947482 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:10.973345 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.009333 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.045516 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.074625 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.110854 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.136922 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.183573 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.210760 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.246991 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.284217 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.310498 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.346603 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.372782 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.409526 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.445804 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.471832 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.518440 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.544512 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.581614 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.607659 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.645519 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.671573 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.708560 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.744566 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.773207 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.807377 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.841943 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.878168 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.914423 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.936796 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:11.972949 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.010421 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.045523 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.081094 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.116770 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.142508 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.178304 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.213981 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.249617 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.275763 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.311383 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.337927 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.374747 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.411006 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.446629 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.482271 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.509963 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.546598 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.582181 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.607781 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.643436 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.679102 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.714756 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.749789 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.775753 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.811383 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.838943 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.884618 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.980939 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.985391 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:12.990931 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.004961 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.039068 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.084455 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.110177 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.145762 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.173420 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.209312 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.235146 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.280213 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.315109 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.339946 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.374830 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.419875 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.444743 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.479596 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.514502 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.549461 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.575211 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.610242 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.645171 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.680158 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.715741 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.740679 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.785715 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.811194 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.847074 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.874709 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.909675 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.945637 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:13.980518 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.015455 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.041357 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.076349 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.111307 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.146255 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.171152 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.207141 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.252207 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.277140 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.312124 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.347088 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.383061 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.419018 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.444958 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.479827 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.514755 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.549662 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.577345 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.612355 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.637313 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.682323 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.717192 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.742019 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.787060 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.821972 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.846848 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.882764 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.907604 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.952615 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:14.987506 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.012338 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.057361 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.082206 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.117033 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.141800 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.186820 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.211575 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.246542 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.285146 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.310995 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.356034 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.380895 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.415807 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.450623 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.485467 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.511162 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.547127 27605 Tracker.cpp:384] Full detection.
+I0621 18:39:15.582027 27605 Tracker.cpp:384] Full dete
