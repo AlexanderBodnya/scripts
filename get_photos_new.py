@@ -5,141 +5,57 @@ import os
 
 #os.path.exists(pathname)
 
-def save_photo(cur, guid):
-    dir1 = 'test'
-    dir2 = 'test2'
-    cur.execute("SELECT * FROM Users WHERE guid=?",(guid))
-    data = cur.fetchall()
-    for item in data:
-        print(item)
-        try:
-            lang = item[5][0:2]
-        except TypeError:
-            lang = 'En'
-
-        if lang != 'En' and lang != 'Ru':
-            lang = 'En'
-        if lang == 'En':
-            filename1 = '.\\{}\\#_{}_{}_{}_{}.jpg'.format(dir1,lang, item[1], item[3], item[4])
-            filename2 = '.\\{}\\#_{}_{}_{}_{}_NNN{}NNN_.jpg'.format(dir2, lang, item[1], item[3], item[4], item[0])
-
-            if os.path.exists(filename1):
-                photo = ''
-                with open( filename1, 'rb') as f1:
-                    photo = b64encode( f1.read() )
-                    f1.close()
-                if photo == item[9]:
-                    continue
-                else:
-                    with open(filename2, 'wb') as f2:
-                        try:
-                            f2.write(b64decode(item[9]))
-                        except:
-                            print('Error! ' + item[8])
-                        f2.close()
-            with open(filename1, 'wb') as f:
-                try:
-                    f.write(b64decode(item[9]))
-                except:
-                    print('Error! '+item[8])
-                f.close()
-        elif lang =='Ru':
-            if os.path.exists(filename1):
-                photo = ''
-                with open( filename1, 'rb') as f1:
-                    photo = b64encode( f1.read() )
-                    f1.close()
-                if photo == item[10]:
-                    continue
-                else:
-                    with open(filename2, 'wb') as f2:
-                        try:
-                            f2.write(b64decode(item[10]))
-                        except:
-                            print('Error! ' + item[9])
-                        f2.close()
-            with open(filename1, 'wb') as f:
-                try:
-                    f.write(b64decode(item[10]))
-                except:
-                    print('Error! '+item[9])
-                f.close()
-
 if __name__ == "__main__":
-    db = sqlite3.connect('C:\\Users\\a.bodnya\\Desktop\\temp\\temp_base.csv')
-    cur = db.cursor()
-    cur.execute('SELECT * FROM Users')
-    dir1 = 'temp_off'
-    dir2 = 'temp_off2'
-    while True:
-        item = cur.fetchone()
-        if not item:
-            break
+    bases = os.listdir('C:\\Users\\a.bodnya\\.PyCharmCE2018.1\\config\\scratches\\')
+    os.chdir('C:\\Users\\a.bodnya\\.PyCharmCE2018.1\\config\\scratches\\')
+    for base in bases:
+        database = os.path.abspath(base)
+        print('Connecting to base {}'.format(database))
+
+        db=[]
         try:
-            lang = item[5][0:2]
-        except TypeError:
-            lang = 'En'
-        if lang != 'En' and lang != 'Ru':
-            lang = 'En'
-        if lang == 'En':
+            db = sqlite3.connect(database)
+        except:
+            print("Failed to open DB")
+        cur = db.cursor()
+        cur.execute('SELECT * FROM Users')
+        dir = 'C:\\Users\\a.bodnya\\Desktop\\temp_off\\'
+        while True:
+            item = cur.fetchone()
+            if not item:
+                print("Finish loop.")
+                break
+            try:
+                lang = item[5][0:2]
+            except TypeError:
+                lang = 'En'
+            if lang != 'En' and lang != 'Ru':
+                lang = 'En'
             if lang == 'En':
-                filename1 = '.\\{}\\#_{}_{}_{}_{}.jpg'.format(dir1, lang, item[1], item[3], item[4])
-                filename2 = '.\\{}\\#_{}_{}_{}_{}_NNN{}NNN_.jpg'.format(dir2, lang, item[1], item[3], item[4], item[0])
-
-                if os.path.exists(filename1):
-                    photo = ''
-                    with open(filename1, 'rb') as f1:
-                        photo = b64encode(f1.read())
-                        f1.close()
-                    if photo.decode('utf-8') == item[10]:
-                        continue
-                    else:
-                        with open(filename2, 'wb') as f2:
-                            try:
-                                f2.write(b64decode(item[10]))
-                            except:
-                                print('Error! ' + item[9])
-                            f2.close()
-                        continue
-                # with open(filename1, 'wb') as f:
-                #     try:
-                #         f.write(b64decode(item[9]))
-                #     except:
-                #         print('Error! ' + item[8])
-                #     f.close()
-        elif lang == 'Ru':
-
-            if item[7] == None:
-                replacement = ''
-            else:
-                replacement = item[7]
-            filename1 = '.\\{}\\#_{}_{}_{}_{}.jpg'.format(dir1,lang, item[2], item[6], replacement)
-            filename2 = '.\\{}\\#_{}_{}_{}_{}_NNN{}NNN_.jpg'.format(dir2,lang, item[2], item[6], replacement, item[0])
-            if os.path.exists(filename1):
-                photo = ''
-                with open(filename1, 'rb') as f1:
-                    photo = b64encode(f1.read())
-                    f1.close()
-                if photo.decode('utf-8') == item[9]:
-                    continue
+                if item[1] == None:
+                    who = ''
                 else:
-                    with open(filename2, 'wb') as f2:
-                        try:
-                            f2.write(b64decode(item[9]))
-                        except:
-                            print('Error! ' + item[8])
-                        f2.close()
-                    continue
-            # with open(filename1, 'wb') as f:
-            #     try:
-            #         f.write(b64decode(item[9]))
-            #     except:
-            #         print('Error! ' + item[8])
-            #     f.close()        # else:
-        #     with open('.\\test\\#_{}_{}_{}_{}.jpg'.format(lang, item[0], item[3], item[4]), 'wb') as f:
-        #         try:
-        #             f.write(b64decode(item[9]))
-        #         except:
-        #             print('Error! ' + item[8])
-        #             pass
-        #         f.close()
+                    who = item[1]
+
+                filename = '{}#_{}_{}_{}_{}_NNN{}NNN_.jpg'.format(dir, lang, who, item[3], item[4], item[0])
+
+                with open(filename, 'wb') as f:
+                    try:
+                        f.write(b64decode(item[10]))
+                    except:
+                        print('Error! ' + str(item[9]))
+                    f.close()
+            elif lang == 'Ru':
+
+                if item[7] == None:
+                    replacement = ''
+                else:
+                    replacement = item[7]
+                filename = '{}#_{}_{}_{}_{}_NNN{}NNN_.jpg'.format(dir,lang, item[2], item[6], replacement, item[0])
+
+                with open(filename, 'wb') as f:
+                    try:
+                        f.write(b64decode(item[10]))
+                    except:
+                        print('Error! ' + str( item[9]))
+                    f.close()
